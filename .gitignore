@@ -1,0 +1,16 @@
+*.suo
+*.user
+[Bb]in/
+[Oo]bj/
+*.vspscc
+*.vssscc
+*.vs10x
+*.pidb
+*.userprefs
+*.tmp_proj
+*.dotCover
+*[Rr]e[Ss]harper.user
+_ReSharper.*/
+**/StyleCop.Cache
+StyleCop.Cache
+TestResults
